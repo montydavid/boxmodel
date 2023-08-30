@@ -15,18 +15,16 @@ header{
 
 section{
     background-color: green;
-    overflow: hidden;
+    display: flex;
 }
 
 nav{
     background-color: beige;
-    float: left;
     width: 25%;
 }
 article{
     background-color: aquamarine;
     width: 75%;
-    float: left;
     height: 80px;
 }
 
